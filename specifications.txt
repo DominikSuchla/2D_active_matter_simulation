@@ -1,0 +1,24 @@
+T:
+5000
+dt:
+0.005
+Lx:
+628.3185307
+Ly:
+628.3185307
+Nx:
+1024
+Ny:
+1024
+alpha:
+-0.8
+beta:
+0.01
+lambda:
+7
+dt_snap:
+1000
+initial_condition:
+random 42
+save_directory:
+/new_simulation/snapshots_alpha-08_lambda7
